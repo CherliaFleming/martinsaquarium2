@@ -13,3 +13,7 @@ const tipHTML = tipList()
 const locationHTML = locationList()
 
 // Render each HTML string to the correct DOM element
+
+
+
+
